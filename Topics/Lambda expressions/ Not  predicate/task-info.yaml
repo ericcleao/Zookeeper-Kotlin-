@@ -1,0 +1,14 @@
+type: code
+custom_name: '"Not" predicate'
+files:
+  - name: src/Main.kt
+    visible: true
+    highlight_level: NONE
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6163#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 17 Apr 2025 23:43:16 UTC"
+record: -1
+submission_language: kotlin
