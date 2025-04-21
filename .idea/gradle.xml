@@ -34,6 +34,11 @@
             <option value="$PROJECT_DIR$/Topics/Map/Theory" />
             <option value="$PROJECT_DIR$/Topics/Mutable Map and Mutable Set as interfaces/Theory" />
             <option value="$PROJECT_DIR$/Topics/Mutable Map and Mutable Set as interfaces/Unique ID user collection manager" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Converting to Byte" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Floating-point to integer conversion" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Sum of Longs" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Where is the type overflow possible" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
