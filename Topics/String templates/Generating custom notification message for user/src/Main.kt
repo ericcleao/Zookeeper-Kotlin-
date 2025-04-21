@@ -5,7 +5,7 @@ fun main(args: Array<String>) {
     // Create a Scanner object for taking input
     val reader = Scanner(System.`in`)
 
-    // Get user name
+    // Get user's name
     val userName = reader.nextLine()
 
     // Get number
@@ -13,4 +13,5 @@ fun main(args: Array<String>) {
 
     // Make sure to use string templates to format your message
     // YOUR CODE GOES HERE
+    println("Hello $userName, you have $num new notifications.")
 }
