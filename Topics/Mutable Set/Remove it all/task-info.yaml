@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: makeEmpty()
+  - text: clear()
+  - text: remove()
+  - text: removeAll()
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11900#comment
+status: Unchecked
+record: -1
+custom_name: Remove it all!
+local_check: false
