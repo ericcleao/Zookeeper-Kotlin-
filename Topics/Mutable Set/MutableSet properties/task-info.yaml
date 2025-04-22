@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: It does not allow duplicates
+  - text: Its size cannot be changed
+  - text: It allows you to change its contents
+  - text: It's an unordered collection
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11898#comment
+status: Unchecked
+record: -1
+local_check: false
