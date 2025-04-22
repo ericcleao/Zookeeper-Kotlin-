@@ -10,7 +10,14 @@ files:
     visible: true
     learner_created: false
 feedback_link: https://hyperskill.org/learn/step/11291#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 22 Apr 2025 22:52:05 UTC"
 record: -1
+selected_options:
+  - 0
+  - 1
+  - 3
 custom_name: The truth is...
 local_check: false
