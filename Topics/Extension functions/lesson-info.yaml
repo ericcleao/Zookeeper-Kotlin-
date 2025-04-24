@@ -3,3 +3,4 @@ content:
   - Definition
   - Overriding member function
   - Delegation
+  - Overriding extension function
