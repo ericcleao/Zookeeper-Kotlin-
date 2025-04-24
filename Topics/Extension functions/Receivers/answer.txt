@@ -1,1 +1,1 @@
-type your solution here
+Double#5.5
