@@ -10,6 +10,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Extension functions/Definition" />
+            <option value="$PROJECT_DIR$/Topics/Extension functions/Delegation" />
+            <option value="$PROJECT_DIR$/Topics/Extension functions/Overriding member function" />
+            <option value="$PROJECT_DIR$/Topics/Extension functions/Theory" />
             <option value="$PROJECT_DIR$/Topics/If expression/Categorizing temperature in Fahrenheit" />
             <option value="$PROJECT_DIR$/Topics/If expression/Knights" />
             <option value="$PROJECT_DIR$/Topics/If expression/Odd or even" />
@@ -46,6 +50,7 @@
             <option value="$PROJECT_DIR$/Topics/Mutable Set/Combination" />
             <option value="$PROJECT_DIR$/Topics/Mutable Set/Filter" />
             <option value="$PROJECT_DIR$/Topics/Mutable Set/MutableSet properties" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Set/Remove it all" />
             <option value="$PROJECT_DIR$/Topics/Mutable Set/Theory" />
             <option value="$PROJECT_DIR$/Topics/Set/Combinination" />
             <option value="$PROJECT_DIR$/Topics/Set/Subtraction" />
