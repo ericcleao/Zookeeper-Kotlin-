@@ -14,3 +14,4 @@ content:
   - Set
   - Mutable Set
   - Extension functions
+  - Mutable List
