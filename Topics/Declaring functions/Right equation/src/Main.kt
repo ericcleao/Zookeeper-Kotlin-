@@ -1,4 +1,7 @@
 // write your code here
+fun isRightEquation(a: Int, b: Int, c: Int): Boolean {
+    return a * b == c
+}
 
 /* Do not change code below */
 fun main() {
