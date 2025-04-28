@@ -10,6 +10,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functions/Right equation" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functions/The sum of three numbers" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functions/Theory" />
             <option value="$PROJECT_DIR$/Topics/Extension functions/Definition" />
             <option value="$PROJECT_DIR$/Topics/Extension functions/Delegation" />
             <option value="$PROJECT_DIR$/Topics/Extension functions/Overriding extension function" />
