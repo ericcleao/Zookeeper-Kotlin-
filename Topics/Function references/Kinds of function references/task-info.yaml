@@ -1,14 +1,20 @@
 type: choice
 is_multiple_choice: true
 options:
+  - text: a function
   - text: a class
   - text: a constructor
-  - text: a function
 files:
   - name: src/Main.kt
     visible: true
     learner_created: false
 feedback_link: https://hyperskill.org/learn/step/15426#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 02 May 2025 10:05:43 UTC"
 record: -1
+selected_options:
+  - 0
+  - 2
 local_check: false
