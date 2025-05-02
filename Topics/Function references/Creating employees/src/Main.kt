@@ -8,17 +8,16 @@ class Employee(val id: Int, val name: String, val lastName: String, val telNum: 
     }
 }
 
-fun createEmployees(employeeCreator: (Int, String, String, String, String) -> Employee, count: Int) {
-    for (i in 1..count) {
-        val (name, lastName, telNum, email) = readLine()!!.split(' ').toList()
-        // write your code here
-        val newEmployee = employeeCreator(i, name, lastName, telNum, email)
-        newEmployee.printData()
-    }
+fun main() {
+    val count = readln().toInt()
+
+    createEmployees(::Employee, count)
 }
 
-fun main() {
-    val count = readLine()!!.toInt()
-    // create reference to the constructor Employee 
-    createEmployees(::Employee, count)
+fun createEmployees(employeeCreator: (Int, String, String, String, String) -> Employee, count: Int) {
+    repeat(count) { index ->
+        val (name, lastName, telNum, email) = readln().split(' ')
+        val newEmployee = employeeCreator(index + 1, name, lastName, telNum, email)
+        newEmployee.printData()
+    }
 }
