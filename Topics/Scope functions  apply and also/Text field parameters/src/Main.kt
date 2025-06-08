@@ -7,5 +7,9 @@ data class TextField(
 fun main() {
     val textField = TextField()
 
-    textField // Write your code here
+    textField.apply {
+        println("Old settings: $this")
+        text = readln()
+        println("New settings: $this")
+    }
 }
