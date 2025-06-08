@@ -9,5 +9,14 @@ fun main() {
         role = readln()
     }
 
-    // Write your code here
+    with(musician) {
+        println(this)
+        this.name.length
+    }.let {
+        println(it/4)
+        it/4
+    }.run {
+        val num = this + 10
+        println(num)
+    }
 }
