@@ -21,3 +21,4 @@ content:
   - The try-catch-finally statement
   - Nested and inner classes
   - Scope functions  apply and also
+  - "Scope functions  let, run, and with"
