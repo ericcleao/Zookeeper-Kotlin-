@@ -1,0 +1,22 @@
+type: table
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/22609#comment
+status: Unchecked
+record: -1
+rows:
+  - also
+  - apply
+columns:
+  - Returns context object
+  - Context object as it
+  - Context object as this
+selected:
+  - - false
+    - false
+    - false
+  - - false
+    - false
+    - false
